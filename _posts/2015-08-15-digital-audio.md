@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Audio Effects"
+title: "Digital Audi"
 description: ""
 category: 
 tags: []
