@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beautiful Algae"
+title: "Beautiful Algae "
 description: ""
 category: 
 tags: []
